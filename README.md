@@ -71,7 +71,7 @@
 -->
 
 ### :red_circle: Live projects :
-- **[SPOT - Music mood prediction](trackspot-v1.herokuapp.com)**
+- **[SPOT - Music mood prediction](https://trackspot-v1.herokuapp.com)**
 - **[SALIN - Filipino speech to Baybayin transcription](https://marvinraydalida.github.io/baybayin-transcription/)**
 
 ---
