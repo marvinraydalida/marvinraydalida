@@ -48,6 +48,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://twilio-cms-prod.s3.amazonaws.com/images/scikit-learn.width-808.png" title="SK learn" alt="SK learn" width="50" height="30"/>&nbsp;
+<img src="https://www.chartjs.org/img/chartjs-logo.svg" title="Chart JS" alt="Chart JS" width="40" height="40"/>&nbsp;
 
 </div><br />
 
