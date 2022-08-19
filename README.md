@@ -9,10 +9,6 @@
   </a>
 </div>
 
-<div id="profile-count" align="center">
-<img src="https://komarev.com/ghpvc/?username= marvinraydalida&style=flat-square&color=blue" alt=""/>
-</div>
-
 ---
 
 ### :man_technologist: About Me :
@@ -43,12 +39,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="React JS" alt="React JS" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp; 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" title="Express JS" alt="Express JS" width="40" height="40"/>&nbsp; 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/codeigniter/codeigniter-plain.svg" title="CodeIgniter 3" alt="CodeIgniter 3" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://twilio-cms-prod.s3.amazonaws.com/images/scikit-learn.width-808.png" title="SK learn" alt="SK learn" width="50" height="30"/>&nbsp;
 <img src="https://www.chartjs.org/img/chartjs-logo.svg" title="Chart JS" alt="Chart JS" width="40" height="40"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" title="JSON web token" alt="JSON web token" width="40" height="40"/>&nbsp;
 
 </div><br />
 
