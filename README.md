@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me :
 - 🧑‍🎓 I’m currently a 4th year Computer Science Student
-- 🌱 Currently learning MERN stack and React-Native
+- 🌱 Currently scratching my head on how to train a decent nudity classifier
 -  ⚙️ Planning our thesis right now.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
